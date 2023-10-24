@@ -1,0 +1,19 @@
+fimport random
+
+def juego_resta():
+num1 = random.randint(1, 100)
+num2 = random.randint(1, 100)
+
+print("Resta los siguientes números:")
+print(num1, "-", num2)
+
+respuesta = int(input("Ingresa tu respuesta: "))
+
+resultado = num1 - num2
+
+if respuesta == resultado:
+        print("¡Respuesta correcta!")
+else:
+print("Respuesta incorrecta. La respuesta correcta es:", resultado)
+
+juego_resta()
