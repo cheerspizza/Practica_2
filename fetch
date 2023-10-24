@@ -1,0 +1,92 @@
+[33mcommit 17b5646dae191c2fe83132fa3747748ff71bcffd[m[33m ([m[1;36mHEAD -> [m[1;32msuma[m[33m, [m[1;31morigin/Division[m[33m)[m
+Author: cheerspizza <82058477+cheerspizza@users.noreply.github.com>
+Date:   Mon Oct 23 20:25:33 2023 -0500
+
+    Ejemplo division
+
+[33mcommit 347336ae62127ca24f137e8b7b9ee137a888f627[m
+Author: cheerspizza <82058477+cheerspizza@users.noreply.github.com>
+Date:   Mon Oct 23 20:22:46 2023 -0500
+
+    Operacion division
+
+[33mcommit eee571f4672117e0c522e30ab7398458c31e9212[m
+Author: cheerspizza <82058477+cheerspizza@users.noreply.github.com>
+Date:   Mon Oct 23 20:18:43 2023 -0500
+
+    Ejemplo Moltiplicacion
+
+[33mcommit 5828b439a729b72e388d735b03f19797f7f3adc7[m
+Author: cheerspizza <82058477+cheerspizza@users.noreply.github.com>
+Date:   Mon Oct 23 20:17:35 2023 -0500
+
+    Operacion Multiplicacion
+
+[33mcommit 7a08e06cfb8a7ec5deafc7a9058d19007d5de347[m
+Merge: 7cab7ab b37bd68
+Author: cheerspizza <82058477+cheerspizza@users.noreply.github.com>
+Date:   Mon Oct 23 20:09:25 2023 -0500
+
+    Merge pull request #3 from cheerspizza/Suma
+    
+    Suma
+
+[33mcommit b37bd689815954e81da1fbf89d5cead375f5317e[m[33m ([m[1;31morigin/Suma[m[33m)[m
+Merge: 20e6d25 ca98882
+Author: cheerspizza <82058477+cheerspizza@users.noreply.github.com>
+Date:   Mon Oct 23 20:06:11 2023 -0500
+
+    Merge pull request #2 from cheerspizza/Resta
+    
+    Add files via upload
+
+[33mcommit ca98882bba099cfec349e10449463531aee0a453[m
+Author: cheerspizza <82058477+cheerspizza@users.noreply.github.com>
+Date:   Mon Oct 23 20:05:53 2023 -0500
+
+    Add files via upload
+
+[33mcommit 7cab7abf4990f45f83503c3a064dcbed881e0630[m
+Merge: f114e8b 20e6d25
+Author: cheerspizza <82058477+cheerspizza@users.noreply.github.com>
+Date:   Mon Oct 23 20:03:56 2023 -0500
+
+    Merge pull request #1 from cheerspizza/Suma
+    
+    Suma
+
+[33mcommit 20e6d254ad00de64b6a42f1f2dd27b3f1fe61b27[m
+Author: cheerspizza <82058477+cheerspizza@users.noreply.github.com>
+Date:   Mon Oct 23 20:03:24 2023 -0500
+
+    Add files via upload
+
+[33mcommit 862beab22bcdb1c4ef08f5a3b07ac09cecc56914[m
+Author: cheerspizza <82058477+cheerspizza@users.noreply.github.com>
+Date:   Mon Oct 23 19:57:41 2023 -0500
+
+    Ejemplo
+
+[33mcommit 27ecc42f4b22eb371c911e2cb0510df6cbbe4533[m
+Author: cheerspizza <82058477+cheerspizza@users.noreply.github.com>
+Date:   Mon Oct 23 19:41:14 2023 -0500
+
+    Operacion suma
+
+[33mcommit f114e8bd6e5e082425e97464414e3e09d88d431e[m[33m ([m[1;32mmain[m[33m)[m
+Author: cheerspizza <82058477+cheerspizza@users.noreply.github.com>
+Date:   Tue Oct 17 07:28:07 2023 -0500
+
+    Update README.md
+
+[33mcommit 0ccb3b35cf5aa48bd46ec39090db3181c55b6ecc[m
+Author: cheerspizza <82058477+cheerspizza@users.noreply.github.com>
+Date:   Tue Oct 17 07:27:43 2023 -0500
+
+    Update README.md
+
+[33mcommit 6b7314b20cf14a4e106f571d7140da1e590c21ad[m
+Author: cheerspizza <82058477+cheerspizza@users.noreply.github.com>
+Date:   Tue Oct 17 07:27:07 2023 -0500
+
+    Initial commit
