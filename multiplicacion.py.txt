@@ -1,0 +1,13 @@
+import random
+
+def game():
+num1 = random.randint(1, 10)
+num2 = random.randint(1, 10)
+correct_ans = num1 * num2
+player_ans = int(input(f"What is {num1} times {num2}? "))
+if player_ans == correct_ans:
+print("Great job! Your answer is correct.")
+else:
+print(f"Sorry, the correct answer is {correct_ans}. Try again next time!")
+
+game()
